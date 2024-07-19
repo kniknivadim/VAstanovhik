@@ -18,7 +18,7 @@
 Клонируйте этот репозиторий на свой локальный компьютер:
 
 ```bash
-git clone https://github.com/ваш_пользователь/install-components.git
+git clone https://github.com/ваш_пользователь/VAstanovhik.git
 cd install-components
 ```
 
